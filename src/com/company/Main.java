@@ -15,7 +15,7 @@ public class Main {
         int cifra0;
         int cifra2;
         int rim1 = 0;
-        int rim2 = 0;
+        int rim2 = 0; //
       
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
